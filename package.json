@@ -1,0 +1,27 @@
+{
+  "name": "@applitools/webdriverio-6-testkit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Working example for Applitools SDK with webdriver.io 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Applitools Team",
+    "email": "team@applitools.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@applitools/eyes-webdriverio": "^5.10.1",
+    "@wdio/cli": "^6.1.7",
+    "@wdio/local-runner": "^6.1.7",
+    "@wdio/mocha-framework": "^6.1.6",
+    "@wdio/spec-reporter": "^6.1.5",
+    "@wdio/sync": "^6.1.7",
+    "chromedriver": "^80.0.0",
+    "wdio-chromedriver-service": "^6.0.3"
+  }
+}
