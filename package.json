@@ -12,6 +12,10 @@
     "name": "Applitools Team",
     "email": "team@applitools.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/applitools/webdriverio-6-testkit.git"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
